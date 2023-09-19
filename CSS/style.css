@@ -71,15 +71,3 @@ color: rgb(60, 207, 60);
 #nnn {
     font-size: 26px;
 }
-
-
-
-
-#btn_remover {
-    border: none;
-    font-size: 1.2em;
-    background-color: transparent;
-    position: absolute;
-    right: 2px;
-    top: 2px;
-}
